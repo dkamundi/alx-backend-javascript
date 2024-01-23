@@ -1,1 +1,5 @@
-The name suggests that it may be about ES6 (ECMAScript 2015) and data manipulation using ES6 features.
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+How to use map, filter and reduce on arrays
+Typed arrays
+The Set, Map, and Weak link data structures
